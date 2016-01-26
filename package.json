@@ -1,0 +1,30 @@
+{
+  "name": "console-styles",
+  "version": "0.0.1",
+  "description": "Simple object structs for terminal color codes as strings",
+  "keywords": [
+    "terminal",
+    "console",
+    "colors"
+  ],
+  "author": {
+    "name": "Jasmine Hegman",
+    "email": "jasmine@jhegman.com"
+  },
+  "license": "MIT",
+  "scripts": {
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:r4j4h/console-styles.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/r4j4h/console-styles/issues"
+  },
+  "homepage": "https://github.com/r4j4h/console-styles"
+}
